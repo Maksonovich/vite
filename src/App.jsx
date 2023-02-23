@@ -4,7 +4,6 @@ import "./App.scss"
 const App = () => {
   return (
     <div>
-      ha
     </div>
   )
 }
